@@ -9,7 +9,7 @@ export default function Index() {
   const [vinCode, setVinCode] = useState('');
 
   const categories = [
-    { id: 1, name: 'Двигатель', icon: 'Cog', count: '2,450 товаров' },
+    { id: 1, name: 'Мой двигатель', icon: 'Cog', count: '2,450 товаров' },
     { id: 2, name: 'Тормозная система', icon: 'Circle', count: '1,230 товаров' },
     { id: 3, name: 'Подвеска', icon: 'Settings', count: '890 товаров' },
     { id: 4, name: 'Электрика', icon: 'Zap', count: '1,560 товаров' },
